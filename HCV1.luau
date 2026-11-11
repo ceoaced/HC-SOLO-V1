@@ -11,7 +11,7 @@ TDS:Loadout("Gatling Gun", "Mercenary Base", "Farm", "Hacker", "EvolvedJuggernau
 TDS:Mode("Hardcore")
 TDS:GameInfo("Wretched Front", {})
 
-TDS:VoteSkip(1, 44)
+TDS:VoteSkip(1, 43)
 -- [ Wave 1 ] --
 TDS:Place("Farm", 26.909893035888672, 0.9077512621879578, 36.88627624511719)
 TDS:Upgrade(1)
